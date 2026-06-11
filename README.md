@@ -1,4 +1,4 @@
 # c-practise
 This is my first git repository.
 <br>
-Author-Gaurav Jha
+Author-Gaurav Jha (student)
